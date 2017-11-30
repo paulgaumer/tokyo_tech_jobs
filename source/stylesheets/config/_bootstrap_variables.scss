@@ -6,8 +6,8 @@
 // General style
 $font-family-sans-serif:  $body-font;
 $headings-font-family:    $headers-font;
-$body-bg:                 $light-gray;
-$font-size-base: 18px;
+$body-bg:                 #FDFDFD;
+$font-size-base:          16px;
 
 // Colors
 $gray-base:       $gray;
@@ -23,3 +23,5 @@ $border-radius-large: 2px;
 $border-radius-small: 2px;
 
 // Override other variables below!
+$text-color: $light-gray;
+$headings-color: $gray;

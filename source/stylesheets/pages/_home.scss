@@ -1,17 +1,16 @@
-#home {
-  background-color: #D23333;
-  color: white;
-  height: 100vh;
-  display: flex;
-  align-items: center;
-  justify-content: space-around;
-  text-align: center;
-  p {
-    margin-top: 1.5em;
-  }
-  a {
-    color: rgba(0,0,0,0.4);
-    font-weight: bold;
-    font-size: 16px;
-  }
+#logo {
+  width: 200px;
+  display: block;
+  margin: 30px auto 40px auto;
+
 }
+
+#home {
+  color: $gray;
+  height: 100vh;
+  // display: flex;
+  // align-items: center;
+  // justify-content: space-around;
+  // text-align: center;
+}
+

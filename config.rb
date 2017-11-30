@@ -25,3 +25,5 @@ end
 data.jobs.each do |job|
   proxy "/jobs/#{job.id}.html", "/jobs/template_jobs.html", locals: { selected_job: job }, ignore: true
 end
+
+# activate :livereload

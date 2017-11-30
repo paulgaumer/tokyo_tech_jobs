@@ -1,15 +1,29 @@
 ---
-title: Le Wagon - Middleman
+title: Le Wagon - Tokyo Jobs
 ---
 
 <div id="home">
-  <div class="home-content">
-    <%= image_tag "logo.png", width: "200" %>
-    <p>
-      Middleman is now running!
-    </p>
-    <p class="about">
-      <%= link_to "More about this template", "about.html" %>
-    </p>
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12 col-md-8 col-md-offset-2">
+
+        <%= image_tag "wagon_logo.png", :id => "logo" %>
+
+        <% data.jobs.each do |job| %>
+
+          <div class="job_card">
+            <%= link_to "#{job.title} - #{job.company_name}", "jobs/#{job.id}.html" %>
+            <p class="date"><%= job.date %></p>
+            <% if job.description.length > 20  %>
+              <p class="description"><%= job.description.split[0..20].join(' ') %>...</p>
+            <% else %>
+              <p class="description"><%= job.description %></p>
+            <% end %>
+          </div>
+
+        <% end %>
+
+      </div>
+    </div>
   </div>
 </div>

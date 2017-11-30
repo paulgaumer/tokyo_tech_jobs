@@ -1,9 +1,28 @@
 <% job = selected_job %>
 
-<h1> <%= job.title %> </h1>
+<div class="container">
+  <div class="row">
+    <div class="col-xs-12 col-md-8 col-md-offset-2">
 
-<p><%= job.company_name %></p>
+      <div class="job_header">
+        <h1 class="red_title"> <%= job.title %> </h1>
 
-<br>
+        <% if job.contact != "tokyo@lewagon.org" %>
+          <p><%= mail_to "#{job.contact}", "Apply Directly", class: "btn btn-danger" %><p>
+        <% else %>
+          <p><%= mail_to "#{job.contact}", "Apply via Le Wagon", class: "btn btn-danger" %><p>
+        <% end %>
+      </div>
 
-<p><%= job.description %></p>
+      <p>Company: <%= job.company_name %></p>
+      <p>Japanese: <%= job.japanese %></p>
+
+      <h2>Description</h2>
+      <p><%= job.description %></p>
+
+      <h2>Requirements</h2>
+      <p><%= job.requirements %></p>
+    
+    </div>
+  </div>
+</div>
