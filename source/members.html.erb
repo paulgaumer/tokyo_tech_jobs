@@ -1,0 +1,6 @@
+<% data.users.each do |user| %>
+  <div>
+    <a href="users/<%= user.github_nickname %>.html"><h1><%= user.name %></h1></a>
+    <p><%= user.github_nickname %></p>
+  </div>
+<% end %>
