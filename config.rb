@@ -22,6 +22,6 @@ activate :deploy do |deploy|
 end
 
 # Dynamic pages generation
-data.users.each do |user|
-  proxy "/users/#{user.github_nickname}.html", "/users/template_users.html", :locals => { :person_name => user.name }, :ignore => true
+data.jobs.each do |job|
+  proxy "/jobs/#{job.id}.html", "/users/template_jobs.html", :locals => { :company_name => job.company_name }, :ignore => true
 end
