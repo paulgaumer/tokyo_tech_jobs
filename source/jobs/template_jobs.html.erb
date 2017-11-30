@@ -1,1 +1,8 @@
-<h1>Hello <%= company_name %></h1>
+<% job = data.jobs[job] %>
+
+<h1> <%= job.title %> </h1>
+
+<h3><%= job.company_name %></h3>
+
+<p><%= job.description %></p>
+

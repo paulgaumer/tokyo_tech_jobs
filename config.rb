@@ -23,5 +23,5 @@ end
 
 # Dynamic pages generation
 data.jobs.each do |job|
-  proxy "/jobs/#{job.id}.html", "/jobs/template_jobs.html", :locals => { :company_name => job.company_name }, :ignore => true
+  proxy "/jobs/#{job.id}.html", "/jobs/template_jobs.html", :locals => { :job => job }, :ignore => true
 end
