@@ -1,4 +1,11 @@
-.job_header {
+.job {
+  padding-bottom: 40px;
+  h2 {
+    padding-top: 25px;
+  }
+}
+
+.job-header {
   text-align: center;
   margin-bottom: 30px;
 }
@@ -6,5 +13,17 @@
 .red_title {
   color: $red;
   padding: 20px 0;
+}
 
+.job-links {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  a {
+   margin: 10px 5px; 
+  }
+}
+
+.underline {
+  text-decoration: underline;
 }
