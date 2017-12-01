@@ -27,4 +27,3 @@ data.jobs.each do |job|
 end
 
 # activate :livereload
-activate :directory_indexes
