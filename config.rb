@@ -13,8 +13,11 @@ configure :build do
   activate :minify_javascript
   activate :asset_hash
   activate :relative_assets
+  set :site_url, "/TokyoJobs"
   set :relative_links, true
 end
+
+set :site_url, ""
 
 activate :deploy do |deploy|
   deploy.build_before = true
