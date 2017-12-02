@@ -8,22 +8,24 @@ title: Le Wagon - Tokyo Jobs
       <div class="col-xs-12 col-md-8 col-md-offset-2">
 
         <%# <%= image_tag "wagon_logo.png", :id => "logo" %>
+        <div class="home-wrap">
+          <h1 class="home-title">#Tokyo Jobs</h1>
 
-        <h1 class="home-title">#Tokyo Jobs</h1>
+          <% data.jobs.each do |job| %>
 
-        <% data.jobs.each do |job| %>
+            <div class="job_card">
+              <%= link_to "#{job.title} - #{job.company_name}", "jobs/#{job.id}.html" %>
+              <p class="date"><%= job.date %></p>
+              <% if job.description.length > 20  %>
+                <p class="description"><%= job.description.split[0..20].join(' ') %>...</p>
+              <% else %>
+                <p class="description"><%= job.description %></p>
+              <% end %>
+            </div>
 
-          <div class="job_card">
-            <%= link_to "#{job.title} - #{job.company_name}", "jobs/#{job.id}.html" %>
-            <p class="date"><%= job.date %></p>
-            <% if job.description.length > 20  %>
-              <p class="description"><%= job.description.split[0..20].join(' ') %>...</p>
-            <% else %>
-              <p class="description"><%= job.description %></p>
-            <% end %>
-          </div>
+          <% end %>
+        </div>
 
-        <% end %>
 
       </div>
     </div>

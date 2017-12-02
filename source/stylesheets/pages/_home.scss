@@ -8,6 +8,7 @@
 #home {
   color: $gray;
   height: 100vh;
+  margin-bottom: 30px;
   // display: flex;
   // align-items: center;
   // justify-content: space-around;
@@ -21,5 +22,16 @@
   color: $red;
   text-align: center;
   line-height: 2.5em;
+}
+
+.home-wrap {
+  margin-bottom: 100px;
+}
+
+@media (max-device-width: 667px) {
+  .home-title {
+    font-size: 63px;
+    line-height: 1.2em;
+  }
 }
 
