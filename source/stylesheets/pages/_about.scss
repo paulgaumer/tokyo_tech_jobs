@@ -1,9 +1,19 @@
 .logo-about {
-  width: 100px;
+  width: 50px;
   display: block;
   margin: 30px auto;
 }
 
 .about-content {
-  
+  p {
+    padding-bottom: 30px;
+  }
+  img {
+    padding-bottom: 30px;
+    border-radius: 5px;
+  }
 }
+
+// .about-btn {
+//   text-align: center;
+// }
