@@ -17,7 +17,7 @@
 # ------------------------------------------------------------------------
 
 
-- id: "4"
+- id: "3"
   date: "2017-11-14"
   title: "Product Manager"
   company_name: "AIR (EnJapan)"
@@ -60,7 +60,7 @@ Past achievements: We value University degrees but we care more about your achie
   "
 
 
-- id: "3"
+- id: "2"
   date: "2017-11-28"
   title: "Engineer / UX / PM"
   company_name: "CrowdCast"
@@ -128,7 +128,7 @@ Business level English<br>
   "
   
 
-- id: "2"
+- id: "1"
   date: "2017-12-01"
   title: "Junior Front End Developer"
   company_name: "Trainspot"
@@ -156,40 +156,3 @@ It would be great if you have…<br><br>
     knowledge of server side technologies (PHP, Laravel)<br> "
   japanese: "None"
   link: "http://trainspot.jp/en/jobs"
-
-- id: "1"
-  date: "2017-11-29"
-  title: "Rails Developer"
-  company_name: "Reallyenglish"
-  contact: "reallyenglish@tokyodev.com"
-  description: "Reallyenglish has  been providing English language teaching online since 1999. 
-  They’ve build up a strong business through focusing on B2B partnerships, and now looking to bring
-   their platform to the non-English e-Learning market. Their development team is already international,
-    having American, British, Mongolian, and Japanese members, and communicate internally in English, so no Japanese 
-  ability is required. They’re also open to hiring developers who aren’t based in Japan yet, but are looking to relocate here.
-  Unlike most tech companies, their development office is located in Fujisawa, just outside of Tokyo. This is an idea location 
-  if you want to avoid a hectic commute and have great access to nearby beaches, nature, and the historic town of Kamakura, 
-  while still just being a 45 minutes train ride to central Tokyo.
-  <br>
-  <br>
-  The development itself is done using the agile development process Scrum, and they also use other agile techniques like pair programming. 
-  They also are active members in the open source community, making contributions themselves, and sponsoring developer 
-  events (such as Tokyo Rubyist Meetup which I organise).
-  <br>
-  <br>
-  For their product, they use Ruby on Rails 5.1 for the backend, and both PostgreSQL and MongoDB as a database (but are in the process of consolidating their usage). For hosting, they use Google Cloud Platform (GCP), AWS, and a colocation centre, though are transitioning to standardize with GCP using Kubernetes
-
-  <br>
-  <br>
-  Send an email explaining why you're a match, along with a LinkedIn profile or resume demonstrating your relevant experience."
-  requirements: "Experience developing using Ruby on Rails (be it professionally or through things like open source contributions).
-<br>  
-<br>
-*Bonus skills*
-<br>
-Cloud hosting related technologies (e.g. Docker, Kubernetes, GCP, AWS)<br>
-Server management tools like Ansible<br>
-Engineering for heavy load<br>
-UI design grounded in UX principles<br>
-Open source experience"
-  japanese: "None"
