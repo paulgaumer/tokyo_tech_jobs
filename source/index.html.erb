@@ -11,7 +11,7 @@ title: Le Wagon - Tokyo Jobs
         <div class="home-wrap">
           <h1 class="home-title">#Tokyo Jobs</h1>
 
-          <% data.jobs.reverse.each do |job| %>
+          <% data.jobs.each do |job| %>
 
             <div class="job_card">
               <%= link_to "#{job.title} - #{job.company_name}", "jobs/#{job.id}.html" %>
