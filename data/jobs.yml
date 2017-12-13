@@ -16,6 +16,45 @@
 # ------------------------------------------------------------------------
 # ------------------------------------------------------------------------
 
+- id: "6" 
+  date: "2017-12-13"
+  title: Full-Stack Developer"
+  company_name: "Houzz"
+  contact: "tokyo@lewagon.org"
+  japanese: "none"
+  link: "https://www.houzz.jp"
+  description: " Join Houzz in revolutionizing the home and remodeling industry and have an impact on over 40 million homeowners and 1.5 million professionals around the world. Frequently ranked as one of the top 10 most disruptive companies in the world and backed by marquee venture capitalists, Houzz will allow you to drive the future of an industry worth $1.2 trillion in the US and Europe alone.<br><br>
+
+Our entrepreneurial culture and warm family atmosphere will surround you with a fun and dynamic work environment you will only find at Houzz.<br><br>
+
+Our engineers play a direct role in the direction of our company and are able to work across multiple groups to implement fresh ideas that allow Houzz to be the industry leader. If you are interested in applying your passion to create products that will transform the lives of millions of users remodeling and decorating their homes, then welcome to Houzz.<br><br><br>
+
+*Position Overview*<br><br>
+
+As a Full-Stack Software Engineer, you will work on all parts of our web application, its libraries, widgets and custom features. You will work across the entire web stack, working with MySQL, Lucene/Solr, Redis, and React and leveraging a strong understanding of OOP as well as Javascript and CSS. We are looking for someone who is self-directed, independent and has experience owning complete features and products with a desire to build an engaging consumer experience.<br><br>
+
+Contributions:
+
+- Taking high level ideas and transforming them into live products, used by millions of homeowners and professionals from around the world<br>
+- Building features for all parts of our web application, its libraries, widgets and custom features<br>
+- Working cross-functionally across engineering, product, and design teams<br><br>
+"
+  requirements: "*Required Skills And Experience*<br><br>
+
+  - Self-directed, independent and experienced in owning complete features/products<br>
+  - Proficiency in web stack programming, from schema design to building user-facing interfaces<br>
+  - Comfortable working on fast paced, data-driven projects<br>
+  - A desire to build an engaging consumer experience<br>
+  - B.S., M.S., or Ph.D. in Computer Science or equivalent<br><br>
+
+*Desired Skills And Experience*<br><br>
+
+  - Experience developing consumer facing features for millions of consumers<br>
+  - Familiarity with NoSQL databases and Lucene/Solr a plus<br>
+  - 3+ years experience<br><br>
+  "
+
+
 - id: "5"
   date: "2017-12-08"
   title: "Full-Stack JavaScript Developer (KYOTO)"
