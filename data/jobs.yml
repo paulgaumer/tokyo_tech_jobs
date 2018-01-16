@@ -1,23 +1,48 @@
-# Please use the below template for every new job posts. 
+# Please use the below template for every new job posts.
 # Add <br> tags if you need to format your paragraphs.
 # ------------------------------------------------------------------------
 # ------------------------------------------------------------------------
 
-# - id: 
-#   date: 
-#   title: 
-#   company_name: 
+# - id:
+#   date:
+#   title:
+#   company_name:
 #   contact:
 #   japanese:
-#   link: 
-#   description: 
+#   link:
+#   description:
 #   requirements:
 
 # ------------------------------------------------------------------------
 # ------------------------------------------------------------------------
 
+- id: "8"
+  date: "2018-01-16"
+  title: "Web Designer for E-Commerce website and digital contents"
+  company_name: "Leo and Lea"
+  contact: "loic@wan-tomo.com"
+  japanese: "none"
+  link: "http://www.leoandlea.com"
+  description: "You will be responsible for collaborating with the marketing, creative and web development teams to improve the site design and user experience, as well as executing creative assignments (banners, newsletters, campaigns, landing page).<br><br>"
+
+  requirements: "*Required Skills And Experience*<br><br>
+
+  - Solid artistic and design skills<br>
+  - Mockups/Wireframe web design using modern tools (Photoshop, Illustrator, Adobe XD)<br>
+  - Basic Knowledge of coding with HTML / CSS / Javascript<br>
+  - Knowledge of responsive design principles & UI/UX best practices<br>
+  - Familiarity with SEO and marketing<br>
+  - Passionate about user experience<br><br>
+
+*Preferred Skills*<br><br>
+
+  - Fundamentals of design imaging, animation, multimedia design<br>
+  - Team work experience, preferably with a version control system (Git)<br><br>
+  "
+
+
 - id: "7"
-  date: "2017-01-08"
+  date: "2018-01-08"
   title: "Full Stack Web Developer (Rails & React)"
   company_name: "Tacchi Studios"
   contact: "hello@tacchistudios.com"
@@ -44,7 +69,7 @@ Do you have basic UX and visual design skills?<br><br>
 "
 
 
-- id: "6" 
+- id: "6"
   date: "2017-12-13"
   title: "Full-Stack Developer"
   company_name: "Houzz"
@@ -94,8 +119,8 @@ Contributions:
   *Our Offer*<br>
 - The opportunity to reinvent shipping logistics<br>
 - Sponsorship for your Working Visa<br>
-- A unique and challenging adventure of a work experience in Kyoto<br> 
-- Sharp, motivated co-workers in a fun office environment<br><br>" 
+- A unique and challenging adventure of a work experience in Kyoto<br>
+- Sharp, motivated co-workers in a fun office environment<br><br>"
   requirements: "
   *Your Skill Set*<br>
 - Experience in developing Full-Stack with JavaScript, Node.js (Meteor.js is a big plus) and MongoDB<br>
@@ -159,10 +184,10 @@ Contributions:
   japanese: "Fluent"
   link: "https://air.en-japan.io/productmanager/"
   description: "
-  AIR is a multicultural, interdisciplinary product development organization, part of the en-japan inc. group. 
+  AIR is a multicultural, interdisciplinary product development organization, part of the en-japan inc. group.
   We use advanced software technology and data science to create unique digital products for the HR-Tech industry.<br><br>
 
-  We are looking for a bilingual product manager who is comfortable working in a startup-like environment to lead 
+  We are looking for a bilingual product manager who is comfortable working in a startup-like environment to lead
   the development of HR-Tech products for the Japanese market, using lean startup methodologies.<br><br>
 
   Be the product cheerleader, keeping all parties aligned and motivated with the strategy<br>
@@ -201,14 +226,14 @@ Past achievements: We value University degrees but we care more about your achie
   contact: "crowdcast@tokyodev.com"
   japanese: "Based on role"
   link: "http://crowdcast.jp/"
-  description: "Crowd Cast is a Tokyo based FinTech startup. Their main product is Staple, an expense management 
-  application that makes it easy for users to enter, manage, and track expenses anywhere on any device. 
-  They're an international team, and although they prefer candidates already in Japan, they are open to overseas 
-  developers looking to relocate to Japan (and have previously hired subscribers of this list). Read on for their 
+  description: "Crowd Cast is a Tokyo based FinTech startup. Their main product is Staple, an expense management
+  application that makes it easy for users to enter, manage, and track expenses anywhere on any device.
+  They're an international team, and although they prefer candidates already in Japan, they are open to overseas
+  developers looking to relocate to Japan (and have previously hired subscribers of this list). Read on for their
   detailed job descriptions.<br><br>
 
 How to apply<br>
-Send an email to Crowd Cast at crowdcast@tokyodev.com, including the position you are applying for, 
+Send an email to Crowd Cast at crowdcast@tokyodev.com, including the position you are applying for,
 along with your LinkedIn profile or other similar information which best describe your passion and capabilities."
   requirements: "
   **Software Engineers**<br>
@@ -260,15 +285,15 @@ Previous experience at a software development company or startup<br>
 Business level English<br>
 **Business to Native level Japanese required**<br>
   "
-  
+
 
 - id: "1"
   date: "2017-12-01"
   title: "Junior Front End Developer"
   company_name: "Trainspot"
   contact: "jobs@trainspot.jp"
-  description: "You are inspired by the latest web developments and passionate about creating innovative websites and apps. 
-  You will work closely together with the design team & creative directors to find the best technical solutions to build great 
+  description: "You are inspired by the latest web developments and passionate about creating innovative websites and apps.
+  You will work closely together with the design team & creative directors to find the best technical solutions to build great
   digital experiences using the latest technologies, meeting clients’ needs."
   requirements: "We definitely want to meet people with following skills<br><br>
 
