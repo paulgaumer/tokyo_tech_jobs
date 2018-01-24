@@ -16,6 +16,34 @@
 # ------------------------------------------------------------------------
 # ------------------------------------------------------------------------
 
+- id: "10"
+  date: "2018-01-24"
+  title: "Rails Developer"
+  company_name: "Flagship LLC"
+  contact: "office@flagship.cc"
+  japanese: "none"
+  link: "https://flagship.cc/en/railsdeveloper"
+  description: "We are Flagship LLC, Shopify dedicated e-commerce & digital marketing agency from Tokyo, Japan. We help sellers build geographically broader & higher value customer relations through Global E-commerce services and SaaS digital marketing products.<br><br>
+
+Our team features developers, web designers, project managers and growth hackers from 6+ nationalities, and we are overall bilingual in English and Japanese.<br><br>
+
+We are currently looking for a Rails developer to add to our team.<br><br>
+
+MISSION<br>
+- Helps to build and improve Shopify apps<br>
+- Mainly develops with Rails<br>
+- Works with front-end developers and product managers on a daily basis<br><br>"
+  requirements: "- Service / Function design and developer experience with Ruby on Rails<br>
+- Proficient with Git (or with GUI softwares like Tower)<br>
+- Able to communicate in English or Japanese<br>
+- Passionate, open-minded and willing to make a difference in the company<br><br>
+
+We provide commuting allowance, flexible time and remote work options, the tools and devices you need to do your job at your best and an open-minded, enjoyable environment.<br><br>
+
+Salary: starting from 300,000yen/monthly.<br><br>"
+
+
+
 - id: "9"
   date: "2018-01-23"
   title: "自社サービス開発を楽しめるエンジニア (Rails＆PHP)"
