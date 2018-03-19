@@ -16,6 +16,52 @@
 # ------------------------------------------------------------------------
 # ------------------------------------------------------------------------
 
+- id: "12"
+  date: "2018-03-19"
+  title: "UX/UI Designer"
+  company_name: "Team Lab"
+  contact: "wanderley@team-lab.com"
+  japanese: "Is a plus"
+  link: "https://www.team-lab.com/"
+  description: "We are looking for passionate designers with strong teamwork skills, who are interested in using new technologies to create solutions and interested in directing projects.<br><br>
+
+Our in house team includes professionals from a diverse background - and your role as a designer role is to provide UI/UX for projects such as websites, applications, digital signage and other platforms. As a designer you will work closely with our engineering, commercial team  as well as other designers developing new UI/UX solutions.<br><br>
+
+At teamLab you will be able to connect and interact with other teams and craft projects that you wouldn’t be able to make on your own. We are always looking for people who want to create with us.<br><br>"
+  requirements: "<strong>Responsibilities</strong><br>
+- Incorporating technology in your designs<br>
+- UI/UX for websites, applications and digital signage<br>
+- Creating visuals, graphics, videos or other materials<br>
+- Providing visual contents for various services
+<br><br>
+
+<strong>Required experience, skill</strong><br>
+- At least 1 year of web design or UI/UX design
+  (not required for students or recent graduates)
+<br><br>
+
+<strong>Language Skills</strong><br>
+- Fluent english<br>
+- Conversational Japanese not required but desirable<br>
+- Positive attitude towards learning Japanese
+<br><br>
+
+<strong>Desirable Skills</strong><br>
+- Basic HTML/CSS knowledge <br>
+- Direction skills<br>
+- Sketch (software) experience<br>
+- Good teamwork skills<br>
+- Interest in new technologies and platforms, and constant interested in looking for a new approach towards design<br>
+- Interested in technology<br>
+- Interest in Japan (culture wise)
+<br><br>
+
+<strong>Work platform</strong><br>
+- Sketch<br>
+- Adobe (Photoshop, Illustrator)<br>
+- Adobe XD"
+
+
 - id: "11"
   date: "2018-01-31"
   title: "Programming Teacher for Children and Full-Stack Web Developer"
