@@ -16,6 +16,22 @@
 # ------------------------------------------------------------------------
 # ------------------------------------------------------------------------
 
+- id: "13"
+  date: "2018-04-12"
+  title: "Rails & React/React Native"
+  company_name: "Tacchi Studios"
+  contact: "hello@tacchistudios.com"
+  japanese: "Business"
+  link: "http://www.tacchistudios.com/jobs/"
+  description: "We’re always looking for freelance and/or full-time Ruby on Rails or React/React Native developers to help us with our client projects. If you’d like to be added to our list of go-to developers to call on, please get in touch with some examples of the work you have done and your day rate in yen<br><br>"
+
+  requirements: "For Ruby on Rails developers, we expect you to be experienced with unit testing, API creation, Postgres, common gems such as devise, carrierwave, kaminari, wabpacker etc. You should have some experience of working with Heroku or other PaaS. Knowledge of GraphQL is a nice plus.<br><br>
+
+For React developers, we expect you have experience with Redux and/or Relay (or Apollo) as well as other React ecosystem libraries.<br><br>
+
+For React Native developers, we expect to see projects that do not use Expo (either have ejected or were build from the start without), use at least one of the main navigation libraries (react-navigation, react-native-navigation etc), Redux and/or Relay (or Apollo) etc.<br><br>
+"
+
 - id: "12"
   date: "2018-03-19"
   title: "UX/UI Designer"
@@ -179,35 +195,6 @@ git flow, Circle CI, Slack, esa.io<br><br>
   - Fundamentals of design imaging, animation, multimedia design<br>
   - Team work experience, preferably with a version control system (Git)<br><br>
   "
-
-
-- id: "7"
-  date: "2018-01-08"
-  title: "Full Stack Web Developer (Rails & React)"
-  company_name: "Tacchi Studios"
-  contact: "hello@tacchistudios.com"
-  japanese: "Business"
-  link: "http://www.tacchistudios.com/jobs/"
-  description: "We’re looking to expand our successful engineering team with the addition of a passionate and driven web developer. This position would suit an entry level to intermediate candidate who is looking to expand their skillset by working with our senior developers on a variety of important codebases. The position will focus on the core technologies we use in our products – Ruby on Rails and React.<br><br>
-
-This role will include working on web services and APIs, and web frontends for client dashboards, user-facing web apps and other sites.<br><br>
-
-A candidate who has experience with mobile development using React Native, ObjC/Swift or Java/Kotlin is also a big plus, as is UI/UX skills.<br><br>"
-  requirements: "Have you worked on Rails codebases using common gems such as Devise, Rails Admin, Doorkeeper, Carrierwave, Koala, Delayed_Job?<br>
-Do you have any experience with React and its wider ecosystem, including Redux and/or Relay?<br>
-Have you had experience with deploying apps to cloud platforms such as Heroku, Engine Yard, AWS etc?<br>
-Do you have a desire to learn new things and take on challenges?<br>
-Do you speak business level Japanese and English?<br>
-Do you have a passion for creating things and being around technology and design?<br>
-Do you have excellent time management?<br>
-Do you live in Tokyo and have a valid working visa where necessary?<br><br>
-
-*Bonus Points*<br>
-Do you have experience or an understanding of UX, product strategy and business principles?<br>
-Do you have any experience building apps for iOS or Android?<br>
-Do you have basic UX and visual design skills?<br><br>
-"
-
 
 - id: "6"
   date: "2017-12-13"
