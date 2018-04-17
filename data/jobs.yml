@@ -16,6 +16,51 @@
 # ------------------------------------------------------------------------
 # ------------------------------------------------------------------------
 
+- id: "14"
+  date: "2018-04-17"
+  title: "Senior Front-End Developer"
+  company_name: "Rakuten"
+  contact: "https://talent.rakuten.careers/jobs/senior-front-end-developer-product-and-innovation-section-6633"
+  japanese: "Highly Appreciated"
+  link: "https://talent.rakuten.careers/jobs/senior-front-end-developer-product-and-innovation-section-6633"
+  description: "The API Economy is an emerging and massively growing sector of the digital economy, already valued at $2.2 trillion. Rakuten is taking a stake in this massive market opportunity by launching an ‘API Marketplace’ business; think App Store for APIs.Our mission is to build the world’s largest and most dominant platform to empower the world’s Developers to build the next generation of digital services via APIs. We will make API discovery seamless, thus enabling faster time-to-market and unlocking innovative new value propositions. We will vastly improve API monitoring and management, and provide superior user experience in doing so. We will provide our users with best-in-class experience and most comprehensive selection of APIs, starting in Asia.Our GTM strategy will enable us to launch at scale in Q2 2018 with 8000+ API selection. This is a ground-floor opportunity to shape the future of the API Economy. We are hiring our very first team members in Business Development & Partnerships, Community Evangelism, Marketing, Support and Development.<br><br>
+  
+  The main mission of this role is to localize our new API discovery and management portals to fit the needs of the Japanese developer community.  This will Including layout design, custom ui flows and ad-hoc feature development as necessary. <br><br>
+
+ 
+As the first technical member of the team you will be able to grow into a leadership role with the product and help co-ordinate development activities with our partner in the States.<br><br>
+
+ 
+The position is based in Tokyo, Japan and will be hands-on reporting directly to the CTO of the organization. We are looking for a self-starter who is able to get their hands dirty and get things done, basically this is a small team who all have to pitch in to do what is necessary to launch the business. <br><br>
+
+ 
+This is a fantastic opportunity to grow with the business and help us expand this to other regions in Asia, with possibilities for business travel and an opportunity to step up to a leadership role for the right candidate.  <br><br>
+
+You will be in charge of the front-end of our system, this should be attractive to the Japanese developer community and comfortable to use.<br>
+You should have an opinion about what works and what doesn’t work for the local market. This opinion should be shared with the team and communicated to our partners as and when required.
+You will be the first member of the team so you get to set the standards and bootstrap the project from the ground up.  A great opportunity to make your mark.<br>
+Helping out with developer outreach, events and other activities to grow the business.  It really is all-hands-on-deck for this role!<br>
+Localisation of the main service ( landing page, developer portal, documentation portal ) for Japan this includes language, look and feel and UX specific to Japan.<br>
+Front-end integration with Japanese payment providers and other local partner systems.<br>
+Establish good working processes in the team to ensure we are doing the best we can with our limited resources.<br><br>
+  "
+  requirements: "<strong>Must have:</strong><br>
+  * A can-do, get-things-done attitude!<br>
+* 2+ years of experience in front end development.<br>
+* Experience with front-end frameworks ( eg: react JS, vu js, angular, redux or other )<br>
+* 2+ years experience with nodeJS and express.<br>
+* Experience of setting up a production workflow with git and cloud deployment on AWS / Google Cloud<br>
+* Experience of integrating authentication flows using oauth2.0<br>
+* Experience of localization of a NodeJS project<br>
+* Able to deliver clean, fully unit tested code quickly and consistently.<br><br>
+
+<strong>Preferred:</strong><br>
+* Familiarity with public APIs, API gateways, API management<br>
+* Exposure to the Japan developer community<br>
+* Not afraid of public speaking - not a must but would be opportunities to shine if you are.<br><br>
+"
+
+
 - id: "13"
   date: "2018-04-12"
   title: "Rails & React/React Native"
