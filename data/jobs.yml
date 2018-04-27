@@ -16,6 +16,65 @@
 # ------------------------------------------------------------------------
 # ------------------------------------------------------------------------
 
+- id: "17"
+  date: ""
+  title: "Front-End Developer (React)"
+  company_name: "Pactera Japan"
+  contact: "tokyo@lewagon.org"
+  japanese: "Is a plus"
+  link: "https://en.pactera.com/"
+  description: "Pactera is a global company offering consulting, digital, technology and operations services to the world’s leading enterprises. From our roots in engineering to the latest in digital transformation, we give customers a competitive edge.<br>"
+
+  requirements: "We are looking for a Front-End Web Architect with Enterprise and Client facing communication skills.<br><br>
+  
+  One Word:<br>
+  - Experience working with <b>React</b> & <b>Redux</b> on entreprise scale web applications<br>
+  <em>(More details to come...)</em><br><br>
+  "
+
+- id: "16"
+  date: "2018-04-17"
+  title: "Internship Digital Marketing"
+  company_name: "OSF Commerce"
+  contact: "tokyo@lewagon.org"
+  japanese: "Is a plus"
+  link: "https://www.osf-commerce.com/"
+  description: "OSF Commerce is a tech company headquartered in Quebec, Canada. We produce ecommerce platforms for major consumer brands. OSF has offices in the U.S., France, Romania, Germany, Brasil, UK, Ukraine and now Japan.<br><br>
+  You’ll be working from our office in Tokyo and benefit from a great work environment and a flexible schedule. We are looking forward to expand our team in APAC so depending on your work and enthusiasm you can get an offer for full time employment.<br>"
+  requirements: "OSF GLOBAL SERVICES is looking for a smart and ambitious student interested in a 3 months internship in a dynamic, creative and rapidly growing tech company. You will be assigned to Commerce Optimization department to discover the work behind the scene to keep international estores up and growing.<br><br>
+
+You’ll be involved in market research, best practices studies and marketing presentations for retail industry leaders. So if you’re eager to start a career in digital marketing & communication we’ll offer you the opportunity to gain knowledge about customer experience, web analytics, ecommerce, digital marketing KPIs and trends.<br><br>
+
+Your profile<br><br>
+
+Core skills: Effective communication skills, highly organized, driven and motivated with a desire to succeed, enthusiastic team player, passion for copywriting, experience in using the internet for research purpose, good knowledge of Word, Excel and PowerPoint, fluent in English. Japanese is a strong plus.<br><br>
+
+Desirable: Student in Communication or Marketing with Online Marketing understanding and knowledge.<br><br>"
+
+- id: "15"
+  date: "2018-04-17"
+  title: "Back-end / Front-end Developers"
+  company_name: "OSF Commerce"
+  contact: "tokyo@lewagon.org"
+  japanese: "Is a plus"
+  link: "https://www.osf-commerce.com/company/jobs"
+  description: "OSF Commerce is a tech company headquartered in Quebec, Canada. We produce ecommerce platforms for major consumer brands. OSF has offices in the U.S., France, Romania, Germany, Brasil, UK, Ukraine and now Japan. You’ll be working from our office in Tokyo and benefit from a great work environment and a flexible schedule. We are looking forward to expand our team in Japan<br>"
+  requirements: "Front-End<br>
+  - Working knowledge of XHTML/HTML and CSS.<br>
+- Knowledge of HTML5, CSS3 and JavaScript.<br>
+- Proficient in using tools for processing PSD's (Photoshop, Sketch or similar)<br>
+- Working knowledge of adaptive design, responsive design<br>
+- Vanilla JavaScript. Any MV* framework (Backbone, Angular, React, VueJS, etc...)<br>
+- Knowledge of CSS pre-processors (LESS, Sass)<br>
+- Knowledge of jQuery.<br>
+- Experience with any popular jQuery plug-in (jQuery UI, jQuery tools, jQuery Mobile, etc.) is a plus.<br>
+- Knowledge of popular CSS grid systems (Bootstrap, 960gs, Skeleton, etc...) is a plus<br><br>
+
+Back-End<br>
+- Previous experience in back-end development (PHP, ASP.NET, Java, etc.)<br>
+- Experience with Ajax applications<br><br>"
+
+
 - id: "14"
   date: "2018-04-17"
   title: "Senior Front-End Developer"
