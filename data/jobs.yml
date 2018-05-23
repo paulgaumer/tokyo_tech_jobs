@@ -16,6 +16,22 @@
 # ------------------------------------------------------------------------
 # ------------------------------------------------------------------------
 
+- id: "18"
+  date: "2018-05-23"
+  title: "Full-stack Developer (Rails)"
+  company_name: "Rehasaku"
+  contact: "tokyo@lewagon.org"
+  japanese: "Intermediate"
+  link: "http://www.rehasaku.jp/"
+  description: "Rehasaku is a newly created Japanese startup with one goal: better physical rehabilition experience. Their product is a web application providing Omakase Menus for rehabilitation exercices, based on your pathology and needs.<br><br>
+  It currently is a two people operation and they are looking for a good fullstack developer or two specialized developers (front-end & back-end).<br><br>
+  This role is a great opportunity to bring direct impact on an early-stage startup.<br><br> "
+  requirements: "You'll be working with Ruby on Rails, AWS and front-end technologies.<br>
+  Intermediate japanese skills will be needed to efficiently communicate with the team.<br>
+  Autonomy and self-drive will be appreciated.<br>
+  Visa Sponsorship is an option.<br>"
+
+
 - id: "17"
   date: "2018-04-17"
   title: "Front-End Developer (React)"
