@@ -15,6 +15,33 @@
 
 # ------------------------------------------------------------------------
 # ------------------------------------------------------------------------
+- id: "19"
+  date: "2018-08-03"
+  title: "Technical Solutions Engineer"
+  company_name: "MightyHive"
+  contact: "tokyo@lewagon.org"
+  japanese: "Business"
+  link: "https://mightyhive.com"
+  description: "MightyHive is hiring a Technical Solutions Engineer to partner with top clients and our account management team.<br><br>
+  As a Technical Solutions Engineer you leverage your Software Engineering experience and coding ability as a dedicated technical resource to our Account Management Operations. This role is for engineers that are truly entrepreneurs and take on the role of developer, consultant and platform specialist.<br><br>
+  At MightyHive, you’ll be building innovative applications that keep us ahead of the curve as well as internal tools that help us be more efficient and productive. You’ll support the advertising ecosystem that fuels our digital economy and have an opportunity to work with some of the largest companies in the world.<br><br>
+  Your desire to work on hard problems should be complemented by your entrepreneurial ingenuity. Technical Solutions Engineers work in all aspects of digital advertising including dynamic creative ad production, tag deployment, log level data analysis, developing tools with various APIs and systems architecture and implementation. We value execution above all else. If you can and want to solve real world problems, every day, we want to hear from you.<br><br>"
+  requirements: "- Proficiency in English as a primary or secondary language<br>
+- Entry Level Full Stack Developer with experience in Javascript, jQuery, HTML, CSS, React, SQL, Node, Express, Python, Flask, Oauth, Google Cloud Platform<br>
+- A working knowledge of display advertising principles (CPA, CTRs, CPMs, Impressions, etc)<br>
+- Automation Frameworks like PhantomJS or Selenium<br>
+- Prototyping frameworks like Framer.js<br>
+- Experience working with various APIs<br>
+- Expert knowledge of the DOM and how to interact with its elements<br>
+- Working knowledge of Adobe Photoshop and Sketch<br>
+- Working knowledge of GitHub<br>
+- Able to work independently on projects with support from a remote team<br>
+- Previous sales, support, consulting, or biz dev experience is a plus<br>
+- Previous experience in mobile or display advertising a plus<br>
+- Lead technical conversations to both a technical and non-technical audience<br>
+- Excellent communication skills are a must along with the perseverance to solve problems that may not have obvious solutions. You may need to “Think out of the box” or “hack around” a problem to solve it. We like that!<br>"
+
+
 - id: "18"
   date: "2018-05-23"
   title: "Full-stack Developer (Rails)"
@@ -41,7 +68,7 @@
   description: "Pactera is a global company offering consulting, digital, technology and operations services to the world’s leading enterprises. From our roots in engineering to the latest in digital transformation, we give customers a competitive edge.<br>"
 
   requirements: "We are looking for a Front-End Web Architect with Enterprise and Client facing communication skills.<br><br>
-  
+
   One Word:<br>
   - Experience working with <b>React</b> & <b>Redux</b> on entreprise scale web applications<br>
   <em>(More details to come...)</em><br><br>
@@ -98,16 +125,16 @@ Back-End<br>
   japanese: "Highly Appreciated"
   link: "https://talent.rakuten.careers/jobs/senior-front-end-developer-product-and-innovation-section-6633"
   description: "The API Economy is an emerging and massively growing sector of the digital economy, already valued at $2.2 trillion. Rakuten is taking a stake in this massive market opportunity by launching an ‘API Marketplace’ business; think App Store for APIs.Our mission is to build the world’s largest and most dominant platform to empower the world’s Developers to build the next generation of digital services via APIs. We will make API discovery seamless, thus enabling faster time-to-market and unlocking innovative new value propositions. We will vastly improve API monitoring and management, and provide superior user experience in doing so. We will provide our users with best-in-class experience and most comprehensive selection of APIs, starting in Asia.Our GTM strategy will enable us to launch at scale in Q2 2018 with 8000+ API selection. This is a ground-floor opportunity to shape the future of the API Economy. We are hiring our very first team members in Business Development & Partnerships, Community Evangelism, Marketing, Support and Development.<br><br>
-  
+
   The main mission of this role is to localize our new API discovery and management portals to fit the needs of the Japanese developer community.  This will Including layout design, custom ui flows and ad-hoc feature development as necessary. <br><br>
 
- 
+
 As the first technical member of the team you will be able to grow into a leadership role with the product and help co-ordinate development activities with our partner in the States.<br><br>
 
- 
+
 The position is based in Tokyo, Japan and will be hands-on reporting directly to the CTO of the organization. We are looking for a self-starter who is able to get their hands dirty and get things done, basically this is a small team who all have to pitch in to do what is necessary to launch the business. <br><br>
 
- 
+
 This is a fantastic opportunity to grow with the business and help us expand this to other regions in Asia, with possibilities for business travel and an opportunity to step up to a leadership role for the right candidate.  <br><br>
 
 You will be in charge of the front-end of our system, this should be attractive to the Japanese developer community and comfortable to use.<br>
