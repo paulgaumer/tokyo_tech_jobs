@@ -1,15 +1,19 @@
 ---
-title: YOLO
+title: Yolo
 date: 2018-08-09 02:27 UTC
-company_name: acme inc
+company_name: Acme Inc
 contact: "tokyo@lewagon.org"
 link: "https://google.com"
 japanese: fluent
 ---
 
-## Description
+<!-- DESCRIPTION -->
 
 Here we go BIBIBIB
+
+SUMMARY
+
+<!-- REQUIREMENTS -->
 
 ## Requirements
 
