@@ -1,0 +1,45 @@
+<!doctype html>
+<html>
+  <%= partial "layouts/head" %>
+  <body>
+    <%= partial "layouts/navbar" %>
+
+    <%# JOB POST BODY %>
+    <div class="container">
+      <div class="row">
+        <div class="col-xs-12 col-md-8 col-md-offset-2">
+
+        <div class="job">
+        
+          <div class="job-header">
+            <h1 class="red_title"> <%= current_page.data.title %> </h1>
+
+            <div class="job-links">
+              <% if current_page.data.contact != "tokyo@lewagon.org" %>
+                <p><%= mail_to "#{current_page.data.contact}", "Apply Directly", class: "btn btn-danger" %><p>
+              <% else %>
+                <p><%= mail_to "tokyo@lewagon.org", "Apply via Le Wagon", class: "btn btn-danger" %><p>
+              <% end %>
+
+              <% if current_page.data.link %>
+                <p><%= link_to "Company Website", "#{current_page.data.link}", class: "btn btn-success", target: "_blank" %><p>
+              <% end %>
+            </div>
+
+          </div>
+
+          <p><span class="underline">Company:</span> <%= current_page.data.company_name %></p>
+          <p><span class="underline">Japanese:</span> <%= current_page.data.japanese %></p>
+
+          <%= yield %>
+        
+        </div>
+  
+        </div>
+      </div>
+    </div>
+
+    <%# JOB POST BODY %>
+    <%= partial "layouts/footer" %>
+  </body>
+</html>

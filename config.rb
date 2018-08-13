@@ -21,10 +21,18 @@ activate :deploy do |deploy|
   deploy.deploy_method = :git
 end
 
-# Dynamic pages generation
-data.jobs.each do |job|
-  proxy "/jobs/#{job.id}.html", "/jobs/template_jobs.html", locals: { selected_job: job }, ignore: true
+
+# Blog setup
+activate :blog do |blog|
+  blog.sources = "jobs/{year}-{month}-{day}-{title}.html"
+  blog.permalink = "jobs/{year}/{company_name}/{title}.html"
+  blog.layout = "jobs_md"
 end
 
-# activate :livereload
+# Jobs Archives - Dynamic pages generation
+data.jobs.each do |job|
+  proxy "/jobs-archive/#{job.id}.html", "/jobs_templates/template_jobs.html", locals: { selected_job: job }, ignore: true
+end
+
+activate :livereload
 activate :directory_indexes
