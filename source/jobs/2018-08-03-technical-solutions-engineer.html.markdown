@@ -3,9 +3,10 @@ title: Technical Solutions Engineer
 date: 2018-08-03T02:58:10.970Z
 company_name: MightyHive
 contact: tokyo@lewagon.org
-link: 'https://mightyhive.com'
+link: "https://mightyhive.com"
 japanese: Business
 ---
+
 MightyHive is hiring a Technical Solutions Engineer to partner with top clients and our account management team.
 
 As a Technical Solutions Engineer you leverage your Software Engineering experience and coding ability as a dedicated technical resource to our Account Management Operations. This role is for engineers that are truly entrepreneurs and take on the role of developer, consultant and platform specialist.
