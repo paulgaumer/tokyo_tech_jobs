@@ -9,7 +9,7 @@ public_folder: "/images/uploads" # The src attribute for uploaded media will beg
 collections:
   - name: "jobs" # Used in routes, e.g., /admin/collections/blog
     label: "New Job" # Used in the UI
-    folder: "jobs" # The path to the folder where the documents are stored
+    folder: "source/jobs" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
@@ -28,6 +28,7 @@ collections:
           label: "Japanese Level",
           name: "japanese",
           widget: "select",
-          options: ["none", "conversational", "business", "fluent"],
+          options: ["None", "Conversational", "Business", "Fluent"],
+          default: "None",
         }
       - { label: "Body", name: "body", widget: "markdown" }
