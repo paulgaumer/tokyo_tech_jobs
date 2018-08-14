@@ -20,13 +20,13 @@ title: Le Wagon - Tokyo Jobs
             <div class="job_card">
               <%# Title & Date %>
               <%= link_to "#{job.title} - #{job.data.company_name}", job.url %>
-              <p class="date"><%= job.date %></p>
+              <p class="date"><%= job.date.strftime('%Y-%m-%d') %></p>
               
               <%# Description %>
               <% if job.summary.match(jp_regex) %>
                 <p class="summary"><%= job.summary.split("。").first(2).join %>...</p>
               <% elsif job.summary.length > 20  %>
-                <p class="summary"><%= job.summary.split[0..20].join(' ').gsub(/\<br\s*\/?\>/, "") %>...</p>
+                <p class="summary"><%= job.summary.split[0..25].join(' ').gsub(/\<br\s*\/?\>/, "") %>...</p>
               <% else %>
                 <p class="summary"><%= job.summary.gsub(/\<br\s*\/?\>/, "") %></p>
               <% end %>
@@ -60,3 +60,16 @@ title: Le Wagon - Tokyo Jobs
     </div>
   </div>
 </div>
+
+<script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
+</script>
+

@@ -1,3 +1,33 @@
 backend:
   name: git-gateway
   branch: master # Branch to update (optional; defaults to master)
+
+# This line should *not* be indented
+media_folder: "source/images/uploads" # Media files will be stored in the repo under images/uploads
+public_folder: "/images/uploads" # The src attribute for uploaded media will begin with /images/uploads
+
+collections:
+  - name: "jobs" # Used in routes, e.g., /admin/collections/blog
+    label: "New Job" # Used in the UI
+    folder: "jobs" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      # - { label: "Layout", name: "layout", widget: "hidden", default: "blog" }
+      - { label: "Job Title", name: "title", widget: "string" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Company Name", name: "company_name", widget: "string" }
+      - {
+          label: "Contact",
+          name: "contact",
+          widget: "string",
+          default: "tokyo@lewagon.org",
+        }
+      - { label: "Link", name: "link", widget: "string" }
+      - {
+          label: "Japanese Level",
+          name: "japanese",
+          widget: "select",
+          options: ["none", "conversational", "business", "fluent"],
+        }
+      - { label: "Body", name: "body", widget: "markdown" }
