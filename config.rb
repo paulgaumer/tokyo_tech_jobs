@@ -25,7 +25,7 @@ end
 # Blog setup
 activate :blog do |blog|
   blog.sources = "jobs/{year}-{month}-{day}-{title}.html"
-  blog.permalink = "jobs/{year}/{company_name}/{title}.html"
+  blog.permalink = "jobs/{year}-{company_name}-{title}.html"
   blog.layout = "jobs_md"
   blog.summary_separator = /SUMMARY_STOP/
 end
