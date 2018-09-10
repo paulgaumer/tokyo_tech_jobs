@@ -32,7 +32,9 @@ Do you have a strong opinion on how a good UI works and behaves and are willing 
 
 
 ## Requirements
+
 **Must have**
+
 * 3+ years of Frontend experience
 * English fluency
 * Passion for creating accessible and usable interfaces and applications
@@ -46,6 +48,7 @@ Do you have a strong opinion on how a good UI works and behaves and are willing 
 * Working experience with version control system and issue tracking system
 
 **Bonus points for**
+
 * Experience developing mobile apps (mobile first web apps or native)
 * Experience in working with agile methodologies
 * Advanced website optimization knowledge (JS performance, assets optimization, bandwidth, deferred loading)
