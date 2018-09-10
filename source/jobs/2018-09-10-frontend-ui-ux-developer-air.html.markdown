@@ -1,5 +1,5 @@
 ---
-title: Frontend UI/UX Developer - AIR
+title: Frontend UI/UX Developer
 date: 2018-09-10T00:11:08.642Z
 company_name: AIR
 contact: tokyo@lewagon.org
