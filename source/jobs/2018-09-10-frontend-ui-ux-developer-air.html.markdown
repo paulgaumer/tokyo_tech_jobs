@@ -21,6 +21,13 @@ Do you have a strong opinion on how a good UI works and behaves and are willing 
 * Share your knowledge with the team and teach others
 * Evaluate frameworks for production use and contribute to open source libraries
 
+### What we use
+* Frontend: Less/Sass, Bootstrap, Gulp, CoffeeScript, AngularJS, Jasmine, Karma, BEM, Bower, Yeoman, PhoneGap, Ionic, Selenium, VueJS
+* Backend: Ruby on Rails
+* Database: PostgreSQL, MySQL, Redis, MongoDB, Cassandra, Elasticsearch
+* Platform: AWS, Docker, CoreOS, Tools: IntelliJ, GitHub, Asana, Jira, Slack, Travis CI
+* ... and anything you can prove to help us get the work done
+
 <br>
 
 
