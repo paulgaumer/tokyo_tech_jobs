@@ -10,6 +10,7 @@ japanese: None
 MightyHive is hiring a Technical Solutions Engineer to partner with top clients and our account management team.
 <br>
 <br>
+
 ### The Role
 
 As a Technical Solutions Engineer, you leverage your Software Engineer experience and coding ability as a dedicated technical resource to our Account Management Operations. This role is for engineers that are true entrepreneurs and take on the role of developer, consultant, and platform specialist.
