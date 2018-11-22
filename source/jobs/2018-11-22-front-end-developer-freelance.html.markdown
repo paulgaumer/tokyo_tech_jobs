@@ -12,8 +12,6 @@ Dr.Banner is an all-in-one platform allowing brands to seamlessly plan, launch a
 
 Japanese fluency (native preferred) and English &/or French fluency are a must have.
 
-<br>
-
 ## Role & Skills
 
 * Development of minisites and Facebook applications (promotional mini-games)
