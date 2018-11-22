@@ -8,7 +8,7 @@ japanese: Fluent
 ---
 ComKeys, a communication group specialized in international advertising campaigns deployment, are currently looking for a freelance developer to work from Japan on their SaaS service: [Dr.Banner](http://drbanner.com/)
 
-Dr.Banner is an all-in-one platform allowing brands to seamlessly plan, launch and optimize hyper-targeted online advertising campaigns. Each campaign requires the development of one or several dedicated landing pages. The development of these pages will be the mission the freelancer.
+Dr.Banner is an all-in-one platform allowing brands to seamlessly plan, launch and optimize hyper-targeted online advertising campaigns. Each campaign requires the development of one or several dedicated landing pages. The development of these pages will be the mission of the freelancer.
 
 Japanese fluency (native preferred) and English &/or French fluency are a must have.
 
