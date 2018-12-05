@@ -53,7 +53,7 @@ Do you have a strong opinion on how a good UI works and behaves and are willing 
 * Experience in working with agile methodologies
 * Advanced website optimization knowledge (JS performance, assets optimization, bandwidth, deferred loading)
 * Experience in developing production ready single page web front end on JavaScript MVC framework and/or hybrid application frameworks
-* Design user friendly and rich interaction incorporating caching and animations
+* Design user friendly and rich interaction incorporating caching and animation
 * Some background and knowledge on full-stack web service development and operations
 * B.S. in Computer Science or equivalent
 * Japanese language ability
